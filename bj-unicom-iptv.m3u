@@ -44,33 +44,33 @@ http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="北京联通IPTV",凤凰资讯[高清]
 http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京联通IPTV",BRTV北京卫视[高清]
-http://192.168.1.1:23234/rtp/239.3.1.241:8000
+http://192.168.1.1:4022/rtp/239.3.1.241:8000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京联通IPTV",BRTV新闻[高清]
-http://192.168.1.1:23234/rtp/239.3.1.159:8000
+http://192.168.1.1:4022/rtp/239.3.1.159:8000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京联通IPTV",BRTV影视[高清]
-http://192.168.1.1:23234/rtp/239.3.1.158:8000
+http://192.168.1.1:4022/rtp/239.3.1.158:8000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京联通IPTV",BRTV文艺[高清]
-http://192.168.1.1:23234/rtp/239.3.1.242:8000
+http://192.168.1.1:4022/rtp/239.3.1.242:8000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京联通IPTV",BRTV财经[高清]
-http://192.168.1.1:23234/rtp/239.3.1.116:8000
+http://192.168.1.1:4022/rtp/239.3.1.116:8000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京联通IPTV",BRTV生活[高清]
-http://192.168.1.1:23234/rtp/239.3.1.117:8000
+http://192.168.1.1:4022/rtp/239.3.1.117:8000
 # #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京联通IPTV",BRTV青年[高清]
-# http://192.168.1.1:23234/rtp/239.3.1.118:8000
+# http://192.168.1.1:4022/rtp/239.3.1.118:8000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京联通IPTV",BRTV纪实科教[高清]
-http://192.168.1.1:23234/rtp/239.3.1.115:8000
+http://192.168.1.1:4022/rtp/239.3.1.115:8000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京联通IPTV",BRTV卡酷少儿[高清]
-http://192.168.1.1:23234/rtp/239.3.1.189:8000
+http://192.168.1.1:4022/rtp/239.3.1.189:8000
 # #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京联通IPTV",BRTV冬奥纪实[高清]
-# http://192.168.1.1:23234/rtp/239.3.1.243:8000
+# http://192.168.1.1:4022/rtp/239.3.1.243:8000
 # #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京联通IPTV",BRTV冬奥纪实[超清HDR]
-# http://192.168.1.1:23234/rtp/239.3.1.120:8000
+# http://192.168.1.1:4022/rtp/239.3.1.120:8000
 # #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京联通IPTV",BRTV冬奥纪实[超清]
-# http://192.168.1.1:23234/rtp/239.3.1.121:8000
+# http://192.168.1.1:4022/rtp/239.3.1.121:8000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京联通IPTV",BRTV体育休闲[超清]
-http://192.168.1.1:23234/rtp/239.3.1.243:8000
+http://192.168.1.1:4022/rtp/239.3.1.243:8000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京联通IPTV",BTV国际频道
-http://192.168.1.1:23234/rtp/239.3.1.235:8000
+http://192.168.1.1:4022/rtp/239.3.1.235:8000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京联通IPTV",朝阳电视台[高清]
 http://192.168.1.1:4022/rtp/239.3.1.163:8001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京联通IPTV",密云电视台[高清]
