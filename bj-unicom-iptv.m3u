@@ -40,11 +40,11 @@ http://192.168.1.1:4022/rtp/239.3.1.184:8001
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="北京联通IPTV",CCTV-17农业农村[高清]
 http://192.168.1.1:4022/rtp/239.3.1.151:8144
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="北京联通IPTV",凤凰中文[高清]
-http://www.pr666.site:4040/udp/239.255.30.50:8231
+http://113.117.74.31:8081/hls/36/index.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="北京联通IPTV",凤凰资讯[高清]
-http://www.pr666.site:4040/udp/239.255.30.70:8231
+http://113.117.74.31:8081/hls/37/index.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="北京联通IPTV",凤凰香港[高清]
-http://www.pr666.site:4040/udp/239.255.30.123:8231
+http://113.117.74.31:8081/hls/38/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京联通IPTV",BRTV北京卫视[高清]
 http://192.168.1.1:4022/rtp/239.3.1.241:8000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京联通IPTV",BRTV新闻[高清]
