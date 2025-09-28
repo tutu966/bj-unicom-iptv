@@ -35,6 +35,8 @@ http://192.168.1.1:4022/rtp/239.3.1.153:8136
 http://192.168.1.1:4022/rtp/239.3.1.184:8001
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="北京联通IPTV",CCTV-17农业农村[高清]
 http://192.168.1.1:4022/rtp/239.3.1.151:8144
+#EXTINF:-1 tvg-name="CCTV4K",CCTV-4K 超高清[4K]
+http://192.168.1.1:4022/rtp/239.3.1.245:2000
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="北京联通IPTV",凤凰中文[高清]
 http://r.jdshipin.com/cCCzW
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="北京联通IPTV",凤凰资讯[高清]
@@ -43,8 +45,8 @@ http://r.jdshipin.com/0Rp07
 http://php.17186.eu.org/phtv/fhzw.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="北京联通IPTV",凤凰资讯备份[高清]
 http://php.17186.eu.org/phtv/fhzx.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="" group-title="北京联通IPTV",BRTV北京卫视[高清]
-http://192.168.1.1:4022/rtp/239.3.1.241:8000
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="" group-title="北京联通IPTV",BRTV北京卫视[4K]
+http://192.168.1.1:4022/rtp/239.3.1.118:8001
 #EXTINF:-1 tvg-id="" tvg-name="BRTV新闻" tvg-logo="" group-title="北京联通IPTV",BRTV新闻[高清]
 http://192.168.1.1:4022/rtp/239.3.1.159:8000
 #EXTINF:-1 tvg-id="" tvg-name="BRTV影视" tvg-logo="" group-title="北京联通IPTV",BRTV影视[高清]
@@ -79,30 +81,32 @@ http://192.168.1.1:4022/rtp/239.3.1.154:8001
 http://192.168.1.1:4022/rtp/239.3.1.96:8001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京联通IPTV",通州融媒[高清]
 http://192.168.1.1:4022/rtp/239.3.1.221:8001
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="北京联通IPTV",湖南卫视[高清]
-http://192.168.1.1:4022/rtp/239.3.1.132:8012
-#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="北京联通IPTV",浙江卫视[高清]
-http://192.168.1.1:4022/rtp/239.3.1.137:8036
-#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="北京联通IPTV",江苏卫视[高清]
-http://192.168.1.1:4022/rtp/239.3.1.135:8028
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="北京联通IPTV",东方卫视[高清]
-http://192.168.1.1:4022/rtp/239.3.1.136:8032
-#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="北京联通IPTV",山东卫视[高清]
-http://192.168.1.1:4022/rtp/239.3.1.209:8052
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="北京联通IPTV",湖南卫视[4K]
+http://192.168.1.1:4022/rtp/239.3.1.112:3002
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="北京联通IPTV",东方卫视[4K]
+http://192.168.1.1:4022/rtp/239.3.1.119:3006
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="北京联通IPTV",浙江卫视[4K]
+http://192.168.1.1:4022/rtp/239.3.1.114:3004
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="北京联通IPTV",江苏卫视[4K]
+http://192.168.1.1:4022/rtp/239.3.1.113:3003
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="北京联通IPTV",深圳卫视[4K]
+http://192.168.1.1:4022/rtp/239.3.1.202:2000
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="北京联通IPTV",广东卫视[4K]
+http://192.168.1.1:4022/rtp/239.3.1.203:2000
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="北京联通IPTV",山东卫视[4K]
+http://192.168.1.1:4022/rtp/239.3.1.144:3005
+#EXTINF:-1 tvg-id="40" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="北京联通IPTV",四川卫视[4K]
+http://192.168.1.1:4022/rtp/239.3.1.131:3001
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="北京联通IPTV",安徽卫视[高清]
 http://192.168.1.1:4022/rtp/239.3.1.211:8064
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="北京联通IPTV",湖北卫视[高清]
 http://192.168.1.1:4022/rtp/239.3.1.138:8044
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="北京联通IPTV",东南卫视[高清]
 http://192.168.1.1:4022/rtp/239.3.1.156:8148
-#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="北京联通IPTV",广东卫视[高清]
-http://192.168.1.1:4022/rtp/239.3.1.142:8048
 #EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="北京联通IPTV",辽宁卫视[高清]
 http://192.168.1.1:4022/rtp/239.3.1.210:8056
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="北京联通IPTV",黑龙江卫视[高清]
 http://192.168.1.1:4022/rtp/239.3.1.133:8016
-#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="北京联通IPTV",深圳卫视[高清]
-http://192.168.1.1:4022/rtp/239.3.1.134:8020
 #EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="北京联通IPTV",贵州卫视[高清]
 http://192.168.1.1:4022/rtp/239.3.1.149:8076
 #EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="北京联通IPTV",天津卫视[高清]
