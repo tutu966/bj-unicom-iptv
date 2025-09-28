@@ -40,7 +40,7 @@ http://192.168.1.1:4022/rtp/239.3.1.245:2000
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="北京联通IPTV",凤凰中文[高清]
 http://r.jdshipin.com/cCCzW
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="北京联通IPTV",凤凰资讯[高清]
-http://r.jdshipin.com/0Rp07
+http://58.19.180.108:9981/stream/channelid/708272803
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="北京联通IPTV",凤凰中文备份[高清]
 http://php.17186.eu.org/phtv/fhzw.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="北京联通IPTV",凤凰资讯备份[高清]
